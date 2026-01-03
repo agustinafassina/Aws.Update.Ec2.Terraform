@@ -1,10 +1,10 @@
 # Aws.Ec2.Update.Terraform
 This repository contains Terraform scripts designed to facilitate SSH access to a server instance. It allows you to connect easily and run essential commands, such as updating the server, ensuring maintenance and security tasks are performed efficiently.
 
-## Diagram
+### Diagram
 <img height="300" width="70%" src="diagram.png"  />
 
-## Requirenments:
+### Requirenments:
 - Terraform installed
 - Aws account
 - Aws Key Pair (test.pem)
